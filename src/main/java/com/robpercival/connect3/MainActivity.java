@@ -1,4 +1,4 @@
-package com.robpercival.connect3;
+package com.himanshu.connect3;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
