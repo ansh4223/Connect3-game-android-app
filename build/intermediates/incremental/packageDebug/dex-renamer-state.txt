@@ -1,0 +1,7 @@
+#Sat Jun 06 09:43:16 IST 2020
+base.0=C\:\\Users\\Himanshu\\AndroidStudioProjects\\Connect3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9698be9390b6aa3bdf184d4306179006826a67d3
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Himanshu\\AndroidStudioProjects\\Connect3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cc76f8e0e79b62839e85ea72f88eb566b96030d6\\classes.dex
+base.1=C\:\\Users\\Himanshu\\AndroidStudioProjects\\Connect3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cc76f8e0e79b62839e85ea72f88eb566b96030d6
+file.0=C\:\\Users\\Himanshu\\AndroidStudioProjects\\Connect3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9698be9390b6aa3bdf184d4306179006826a67d3\\classes.dex
